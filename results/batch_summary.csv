@@ -1,0 +1,2 @@
+total,attackable,attack_successes,detected_attacks,false_positives,false_negatives,checksum_hits,recompute_hits,behavior_hits,bias_successes,safe_mode_runs,localized_attacks,normal_degrade_runs,safe_recovered_runs,asr_x100,dr_x100,fpr_x100
+147,99,90,77,0,22,99,52,66,90,18,99,0,16,90,77,0

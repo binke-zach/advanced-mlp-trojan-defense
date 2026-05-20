@@ -1,0 +1,4 @@
+attack_profile,total,attackable,attack_successes,detected,avg_cycles,asr_x100,dr_x100
+0,63,27,18,19,27,66,70
+1,33,27,27,20,27,100,74
+2,51,45,45,38,27,100,84
